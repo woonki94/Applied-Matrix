@@ -1,4 +1,4 @@
-# Written Assignment: Applied Matrix
+# Applied Matrix: Written Assignment
 
 ## Course Topics
 
